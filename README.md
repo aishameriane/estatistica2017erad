@@ -1,5 +1,7 @@
 # Minicurso Fundamentos de Estatística para Análise de Desempenho - ERAD/RS 2017
 
+Texto completo: http://www.lbd.dcc.ufmg.br/colecoes/erad/2017/002.pdf
+
 ## Resumo dos arquivos com exemplos
 
 * exemplos da linguagem : funcionalidades simples de R
