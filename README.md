@@ -1,6 +1,7 @@
 # Minicurso Fundamentos de Estatística para Análise de Desempenho - ERAD/RS 2017
 
 Texto completo: http://www.lbd.dcc.ufmg.br/colecoes/erad/2017/002.pdf
+Slides: https://github.com/aishameriane/estatistica2017erad/blob/master/Fundamentos%20de%20Estat%C3%ADstica%20para%20An%C3%A1lise%20de%20Desempenho.pdf
 
 ## Resumo dos arquivos com exemplos
 
